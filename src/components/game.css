@@ -1,0 +1,30 @@
+.gameboard{
+    margin:auto;
+    width:33%;
+    height:400px;
+    background-color:#394264;
+}
+
+
+.gamebank{
+    display:flex;
+    overflow:auto;
+    justify-content:center;
+    background-color:turquoise;
+    width:100%;
+    height:100px;
+}
+
+.title{
+    text-align:center;
+    color:white;
+}
+
+.info{
+    color:white;
+    background-color:red;
+    margin:auto;
+    text-align:center;
+    height:700px;
+
+}

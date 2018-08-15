@@ -1,0 +1,16 @@
+.bank{
+    display:flex;
+    text-align:center;
+    flex-wrap: wrap;
+    background-color:turquoise;
+    justify-content:center;
+}
+.bankguess{
+    background-color: blue;
+    color:white;
+    margin: 0 3px;
+    border-radius : 5px;
+    border: solid blue 3px;
+    height:20px;
+
+}

@@ -1,0 +1,13 @@
+.navlinks{
+    display:flex;
+    justify-content:space-between;
+    color:white;
+    font-size: 30px;    
+}
+a:hover{
+    background-color:turquoise;
+    
+}
+a:visited{
+    color:white;
+}

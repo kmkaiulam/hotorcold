@@ -1,0 +1,14 @@
+.count{
+    color:orange;
+    font-size:3rem;
+    display:inline-block;
+    background-color:#394264
+}
+.count-text{
+    font-size:2rem;
+    background-color:#394264;
+    margin: 0 33%;
+}
+.counter{
+    background-color:#394264
+}
